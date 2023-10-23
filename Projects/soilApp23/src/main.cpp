@@ -2,7 +2,7 @@
 /*#define BLYNK_TEMPLATE_ID "TMPL2-iKUnllq"
 #define BLYNK_TEMPLATE_NAME "SmartIrrigation"*/
 
-#define BLYNK_TEMPLATE_ID "TMPL2HytvxiJS"
+#define BLYNK_TEMPLATE_ID "TMPL2HytvxiJS
 #define BLYNK_TEMPLATE_NAME "smart irrigation"
 #include <Arduino.h>
 #include <WiFi.h>
@@ -21,8 +21,8 @@
 
 #define WATER_PUMP 5
 #define SOIL_SENSOR 34
-const char* ssid = "Haxor";
-const char* pass = "wbbe2586";
+const char* ssid = ""
+const char* pass = "";
 /*const char* ssid = "es";
 const char* pass = "mydomain123";*/
 BlynkTimer timer;
