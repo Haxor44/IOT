@@ -4,8 +4,8 @@
 // put function declarations here:
 #define relay 2
 
-const char* ssid = "Haxor";
-const char* pass = "wbbe2586";
+const char* ssid = ""
+const char* pass = ""
 const char* broker = "192.168.129.252";
 const char* topic = "light";
 const char* topic2 = "test";
